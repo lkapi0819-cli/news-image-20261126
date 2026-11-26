@@ -107,6 +107,16 @@ if (PNG_MAGIC.every((b, i) => poster[i] === b)) {
 if (width > MAX_SIDE || height > MAX_SIDE) {
   refuse(`${width}x${height}, over the ${MAX_SIDE}x${MAX_SIDE} cap`);
 }
+if (width === 0 || height === 0) {
+  refuse("the header reports a zero dimension, so the image is not whole");
+}
+// The gate expects a square front page for this bounty series: every
+// edition so far is 1024x1024, and a non-square file here would mean
+// the layout script's canvas changed without the poster being
+// rechecked, so refuse it rather than ship a cropped front page.
+if (width !== height) {
+  refuse(`${width}x${height} is not square, unlike the shipped poster`);
+}
 
 const target = join(outDir, "entry.png");
 writeFileSync(target, poster);
