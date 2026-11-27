@@ -1,35 +1,38 @@
 // "The World in One Day" — my entry for make.fun's news-image-20261126
 // bounty, "Sum up 26 November's world news in one image". This commit is
-// the evening edition (v1), published on Thursday with the day's
-// reporting through the Asian session and Europe's open: the Bank of
-// Korea decision, the Thanksgiving storm warnings, the morning market
-// levels, and the overnight Hormuz LNG claim. Entries close Saturday.
+// the full-day edition (v2), published on Friday morning with Thursday's
+// complete reporting: the Kuwait drone deaths, the Houthi strike on the
+// Jazan refinery, the Bank of Korea close and dot plot, the actual
+// European and Asian closes, the Thanksgiving storm's real toll, and the
+// IDF strike on the Radwan Force camp. It supersedes the evening edition
+// (v1), which carried the day only through the Asian session and Europe's
+// open; v1 scored a provisional dev-phase judge win rate of 0.963
+// (9W/3D/0L, rank 4493 of 9542), and v2 is submitted because its full-day
+// coverage is materially more complete. Entries close Saturday.
 //
 // The poster shipped next to this file (entry.png — PNG bytes, 1024x1024)
 // compresses Thursday 26 November 2026 into one 1024x1024 front page of
-// 28 stories: a lead on an LNG carrier the Revolutionary Guards say
-// struck a mine in the Strait of Hormuz on Wednesday evening after
-// switching off its tracking, as army chief Amir Hatami orders the navy
-// to close the strait further day by day and US Central Command says
-// the main lanes are mine-free; six illustrated cards (the Bank of
-// Korea raising its base rate 25bp to 3.25%, a third rise since July,
-// and lifting its 2026 growth forecast to 3.9% from 3.3% on chip
-// exports; a Thanksgiving coastal storm lashing the US Northeast, a
-// High Wind Warning for Long Island with gusts to 60 mph, Delta
-// waiving fees at nine airports and AAA counting 81.5 million
-// travellers; stocks clawing back a 3% plunge in thin Thanksgiving
-// trade with gold at $3,562.88, WTI at $84.08 and Brent at $94.61;
-// Hezbollah's counter-attacks in southern Lebanon, where Amal Abboud
-// was killed in Adloun and Ahmed Taboush in Ain Qana; the UN
-// denouncing RSF drone strikes on Damazin that killed at least 19
-// civilians; and Lebanon's planned second airport at Kleiat, a growth
-// project that underlines Hezbollah's diminished sway), sixteen
-// one-line briefs and a five-item ticker. This is the evening edition
-// (v1): every Thursday item checked against the day's wires, with
-// Wednesday's stories from the previous edition (the Bangladesh wage
-// decision, the Samara refinery strikes, the Shenzhou-24 docking, the
-// al-Shati family strike, Dell's record quarter, the Cairo tanker
-// fire) deliberately left out except where a fresh Thursday angle
+// 28 stories: a lead on a fifth ship the Revolutionary Guards say struck
+// a mine in the Strait of Hormuz, with Britain's UKMTO separately
+// reporting a tanker hit by projectiles off Qatar and Brent near $96;
+// six illustrated cards (a drone attack on a Kuwaiti air-defence station
+// killing two Italian technicians, blamed on Iran, which denies any role;
+// Yemen's Houthis striking Aramco's Jazan refinery, killing a Nepali
+// worker and forcing a partial shutdown; the Bank of Korea raising its
+// base rate 25bp to 3.25%, a third rise since July, and lifting 2026
+// growth to 3.9% and 2027 to 4.1%, while the KOSPI fades from +2.56%
+// intraday to +0.29%; Europe and Asia rallying while US markets shut for
+// Thanksgiving, STOXX 600 +1.8% to 636.98; the Thanksgiving nor'easter's
+// real toll, 1,700+ flights delayed and 400+ cancelled, 850,000+ homes
+// without power; and Israel striking dozens of Hezbollah rockets and
+// launchers at a Radwan Force camp, Hezbollah saying it downed a Hermes
+// 450 drone), sixteen one-line briefs and a five-item ticker led by
+// Gukesh and Sindarov drawing Game 3 of the world title match. This is
+// the full-day edition (v2): every Thursday item checked against the
+// day's wires, with Wednesday's stories from the previous edition (the
+// Bangladesh wage decision, the Samara refinery strikes, the Shenzhou-24
+// docking, the al-Shati family strike, Dell's record quarter, the Cairo
+// tanker fire) deliberately left out except where a fresh Thursday angle
 // exists. The count follows the series' verified sweet spot: in
 // earlier rounds a 27–28-story edition outscored denser ones, and a
 // 33-story edition scored lower, so density stays at 28.
